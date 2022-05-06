@@ -1,0 +1,17 @@
+.col-md-5 img {
+	height: 350px;
+	width: 350px;
+}
+.row {
+	display: flex;
+	justify-content: center;
+	align-content: center;
+}
+
+.featurette-divider {
+  margin: 5rem 0;
+}
+
+iframe {
+	width: 100%;
+}
